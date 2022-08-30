@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component
 
+file:///C:/Users/pc/Documents/GitHub/Projetos-Web/index.html.html
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
