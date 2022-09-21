@@ -32,12 +32,15 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
+    border-radius: 10px;
+    overflow: hidden;
+    
 }
 .img{
     width: 100%;
     height: 100%;
     object-fit: contain;
-    border-radius: 10px 0px 0px 10px ;
+    
 }
 
 .content{
@@ -47,7 +50,7 @@
     border: 0px;
     background-color: white;
     height: 100%;
-    border-radius: 0px 10px 10px 0px;
+    
     display: grid;
     
     
@@ -59,13 +62,15 @@
         display: grid;
         grid-template-columns: 1fr;
         align-items: center;
+        overflow: hidden;
+        
     } 
     
     .img{
         width: 100%;
         height: 100%;
         object-fit: contain;
-        border-radius: 10px 10px 00px 0px ; 
+        
     }
     .content{
     
@@ -74,7 +79,7 @@
         border: 0px;
         background-color: white;
         height: 100%;
-        border-radius: 0px 0px 10px 10px;
+        
         display: grid;
         
         
